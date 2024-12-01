@@ -122,6 +122,7 @@ Genie模型很明显，增加模型大小和批量大小有助于提高模型性
 
 尽管如此，我们相信Genie为未来的研究开辟了巨大的潜力。鉴于其通用性，该模型可以从更大比例的互联网视频中进行训练，以模拟多样化、现实和想象的环境。此外，我们仅简要提及了使用Genie训练智能体的能力，但鉴于缺乏丰富多样的环境是RL中的关键限制之一，我们可以开辟创建更通用智能体的新途径。
 
+### 参考资料
 - 标题：Genie: Generative Interactive Environments
 - 作者：Jake Bruce, Michael Dennis, Ashley Edwards等
 - 单位：Google DeepMind
